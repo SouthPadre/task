@@ -1,0 +1,50 @@
+{
+  "collegialBody": {
+    "id": "0f880b9a-703c-45df-9a7b-ab43c3e1ca35",
+    "meetings": [
+      {
+        "num": "Заседание 1",
+        "agendaDueDate": "2019-05-28T11:13:12.861Z",
+        "materialsDueDate": "2019-05-28T11:13:12.861Z",
+        "date": "2019-05-28T11:13:12.861Z",
+        "address": "Варшавское шоссе 25а",
+        "invitedPersons": [
+          {
+            "id": "66364f4b-79d3-4d9e-b6e3-271a9463a6d6"
+          }
+        ],
+        "issues": [
+          {
+            "title":  "Тестовый вопрос 1",
+            "description":  "Пояснение",
+            "estimate": "00:15",
+            "speakers": [],
+            "initiators": [],
+            "invitees": [
+              {
+                "id": "30fda679-f784-4bd3-aa24-98d96d57c64c"
+              }
+            ],
+            "materials": []
+          },
+          {
+            "title":  "Тестовый вопрос 2",
+            "description":  "Пояснение",
+            "estimate": "00:15",
+            "speakers": [],
+            "initiators": [
+              {
+                "id": "30fda679-f784-4bd3-aa24-98d96d57c64c"
+              }
+            ],
+            "invitees": [],
+            "materials": []
+          }
+        ]
+      }
+    ]
+  }
+}
+
+
+
